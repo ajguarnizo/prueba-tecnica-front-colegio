@@ -1,5 +1,13 @@
 # Prueba Técnica Front Colegio
 
+## Herramientas utilizadas
+- Javascript
+- Typescript
+- Css
+- Angular CLI versión 13.1.2
+- Angular Material
+- Visual Studio Code
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Enunciado
@@ -11,12 +19,6 @@ Generar una pantalla en la cual se seleccione el profesor y liste las asignatura
 ![image](https://user-images.githubusercontent.com/98467689/154753664-cbec69e7-bbec-4dae-9869-769b8767018c.png)
 
 ![image](https://user-images.githubusercontent.com/98467689/154753705-e8f3fb87-120d-4666-9daf-a67346a4faf1.png)
-
-## Herramientas utilizadas
-
-- Angular CLI versión 13.1.2
-- Angular Material
-- Visual Studio Code
 
 ## Development server
 
